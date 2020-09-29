@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+=======
+
+.vscode
+logs
+.DS_Store
+data/*.csv
+dataset/*.csv
+>>>>>>> 9c44424e10037376019b5b1838c1efc915edd365
